@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathGameLib", "MathGameLib\MathGameLib.vcxproj", "{88C91E3D-7D21-4E36-B4DA-646F52146F3A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment 2 - GAME 202", "Assignment 2 - GAME 202\Assignment 2 - GAME 202.vcxproj", "{B90AC4DC-6F30-4411-A28A-5C96DB19226A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C91E3D-7D21-4E36-B4DA-646F52146F3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88C91E3D-7D21-4E36-B4DA-646F52146F3A}.Debug|Win32.Build.0 = Debug|Win32
+		{88C91E3D-7D21-4E36-B4DA-646F52146F3A}.Release|Win32.ActiveCfg = Release|Win32
+		{88C91E3D-7D21-4E36-B4DA-646F52146F3A}.Release|Win32.Build.0 = Release|Win32
+		{B90AC4DC-6F30-4411-A28A-5C96DB19226A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B90AC4DC-6F30-4411-A28A-5C96DB19226A}.Debug|Win32.Build.0 = Debug|Win32
+		{B90AC4DC-6F30-4411-A28A-5C96DB19226A}.Release|Win32.ActiveCfg = Release|Win32
+		{B90AC4DC-6F30-4411-A28A-5C96DB19226A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
